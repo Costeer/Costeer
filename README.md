@@ -10,7 +10,7 @@ I'm Costeer
 # Some projects I am working on:
 
 <div align="center">
-     <h1 Gruvbox Material Themes/h1>
+     <h1> Gruvbox Material Themes </h1>
 </div>
 
 ![Gruvbox](https://github.com/user-attachments/assets/50cf545a-d81b-4177-a9b6-676df7475710)
