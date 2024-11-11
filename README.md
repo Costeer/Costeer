@@ -12,9 +12,10 @@
 <div align="center">
      <h1> Gruvbox Material Themes </h1>
 </div>
-
-<img src="https://github.com/user-attachments/assets/50cf545a-d81b-4177-a9b6-676df7475710" 
-    width="600" 
-    height="450">
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/50cf545a-d81b-4177-a9b6-676df7475710" 
+        width="600" 
+        height="450">
+</div>
 
 
