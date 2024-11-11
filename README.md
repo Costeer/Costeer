@@ -13,6 +13,6 @@
      <h1> Gruvbox Material Themes </h1>
 </div>
 
-<img src="https://github.com/user-attachments/assets/50cf545a-d81b-4177-a9b6-676df7475710" style="height:80%;">
+<img src="https://github.com/user-attachments/assets/50cf545a-d81b-4177-a9b6-676df7475710" style="height:50%;">
 
 
