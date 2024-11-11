@@ -4,10 +4,10 @@
     </p>
 </div>
 
-# Hi there :3 
-I'm Costeer
+# Hi there I'm Costeer
 
-# Some projects I am working on:
+
+#### Some projects I am working on:
 
 <div align="center">
      <h1> Gruvbox Material Themes </h1>
