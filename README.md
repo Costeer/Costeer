@@ -1,6 +1,6 @@
 <div align="center">
     <p>
-        <img src="https://media.discordapp.net/attachments/813722092826132502/918630627383861348/Coffe_anim_no_bg_600.gif?ex=67332e30&is=6731dcb0&hm=9d52996a412bb2baaa12ace0769323e2a0ba6257d92d4ed906b33e22c4993605&" alt="Descriptive Text for the GIF" />
+        <img src="https://cdn.discordapp.com/attachments/1033338401904144464/1305615996337262622/1cFhyDb.gif?ex=6733ad26&is=67325ba6&hm=e4af754206454ea0ca7cdcbc587c8fc712a7c3a29c45c13a0f9e12217c76f52c&" alt="Descriptive Text for the GIF" />
     </p>
 </div>
 
