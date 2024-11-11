@@ -14,7 +14,7 @@
 </div>
 
 <img src="https://github.com/user-attachments/assets/50cf545a-d81b-4177-a9b6-676df7475710" 
-    width="600" 
+    width="700" 
     height="500">
 
 
