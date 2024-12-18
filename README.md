@@ -1,6 +1,6 @@
 <div align="center">
-    <p>
-        <img src="https://github.com/Costeer/costeer-s-assets/blob/c0227eca833f0d10feb08acd90358889560db914/other/VtuberisedCosteer.png" alt="my username looking like a vtuber logo" />
+    <p align="center">
+        <img align="center" src="https://github.com/Costeer/costeer-s-assets/blob/c0227eca833f0d10feb08acd90358889560db914/other/VtuberisedCosteer.png" alt="my username looking like a vtuber logo" />
     </p>
 </div>
 
