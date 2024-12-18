@@ -9,8 +9,8 @@
 
 #### Some projects I am working on:
 
-<div align="center">
-     <h1> Gruvbox Material Themes </h1>
+<div align="left">
+     <h3> Gruvbox Material Themes </h3>
 </div>
 <div align="center">
     <img src="https://github.com/user-attachments/assets/50cf545a-d81b-4177-a9b6-676df7475710" 
