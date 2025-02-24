@@ -5,17 +5,6 @@
 </div>
 
 # Hi there I'm Costeer
+im a Bisexual german hobby dev interested in modding hacking and generaly taking apart software, general linux but more specifically NixOS enthusiast, i am also a big fan of 3d Printing.
 
-
-#### Some projects I am working on:
-
-<div align="left">
-     <h3> Gruvbox Material Themes </h3>
-</div>
-<div align="center">
-    <img src="https://github.com/user-attachments/assets/50cf545a-d81b-4177-a9b6-676df7475710" 
-        width="600" 
-        height="450">
-</div>
-
-
+[my website](https://costeer.netlify.app/)
