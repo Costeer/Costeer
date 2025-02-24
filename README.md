@@ -1,7 +1,7 @@
 ![gitDividerSpace1](https://github.com/user-attachments/assets/789e4c6d-6391-488f-95de-ddace3dfd296)
 
 
-# Hi there I'm Costeer
+# Hi there, I'm Costeer!
 im a Bisexual german hobby dev interested in modding hacking and generaly taking apart software, general linux but more specifically NixOS enthusiast, i am also a big fan of 3d Printing.
 
 ## [my website](https://costeer.netlify.app/)
