@@ -7,4 +7,7 @@
 # Hi there I'm Costeer
 im a Bisexual german hobby dev interested in modding hacking and generaly taking apart software, general linux but more specifically NixOS enthusiast, i am also a big fan of 3d Printing.
 
-[my website](https://costeer.netlify.app/)
+## [my website](https://costeer.netlify.app/)
+
+
+![gitDividerSpace1](https://github.com/user-attachments/assets/d7c5343c-1e20-4ff1-9b1a-df655606c54c)
